@@ -1,1 +1,1 @@
-# Creating-Repositr-y-in-Github
+# Creating-Repository-in-Github
